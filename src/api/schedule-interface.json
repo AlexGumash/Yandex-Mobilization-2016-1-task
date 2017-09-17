@@ -1,0 +1,271 @@
+[
+  {
+    "date": "18.10.2016",
+    "theme": "Идея, исследование, концепт (Часть 1)",
+    "teacher": "Антон Тен",
+    "company": "Яндекс",
+    "school": "design"
+  },
+  {
+    "date": "18.10.2016",
+    "theme": "Идея, исследование, концепт (Часть 2)",
+    "teacher": "Антон Тен",
+    "company": "Яндекс",
+    "school": "design"
+  },
+  {
+    "date": "19.10.2016",
+    "theme": "Java Blitz (Часть 1)",
+    "teacher": "Эдуард Мацуков",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "19.10.2016",
+    "theme": "Git & Workflow",
+    "teacher": "Дмитрий Складнов",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "20.10.2016",
+    "theme": "Адаптивная верстка",
+    "teacher": "Дмитрий Дудушкин",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "25.10.2016",
+    "theme": "Java Blitz (Часть 2)",
+    "teacher": "Эдуард Мацуков",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "25.10.2016",
+    "theme": "MyFirstApp (Часть 1)",
+    "teacher": "Роман Григорьев",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "25.10.2016",
+    "theme": "Особенности проектирования мобильных интерфейсов",
+    "teacher": "Васюнин Николай",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "27.10.2016",
+    "theme": "Работа с сенсорным пользовательским вводом",
+    "teacher": "Дмитрий Дудушкин",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "1.11.2016",
+    "theme": "Продукт и платформа",
+    "teacher": "Сергей Калабин",
+    "company": "Яндекс",
+    "school": "design"
+  },
+  {
+    "date": "1.11.2016",
+    "theme": "Природа операционных систем",
+    "teacher": "Николай Васюнин",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "2.11.2016",
+    "theme": "Java Blitz (Часть 2)",
+    "teacher": "Роман Григорьев",
+    "company": "Яндекс",
+    "school": "mobile",
+    "school": "design"
+  },
+  {
+    "date": "2.11.2016",
+    "theme": "ViewGroup",
+    "teacher": "Алексей Щербинин",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "3.11.2016",
+    "theme": "Мультимедиа: возможности браузера",
+    "teacher": "Максим Васильев",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "8.11.2016",
+    "theme": "Прототипирование как процесс",
+    "teacher": "Сергей Томилов",
+    "company": "Яндекс",
+    "school": "design"
+  },
+  {
+    "date": "8.11.2016",
+    "theme": "Инструмент под задачи",
+    "teacher": "Сергей Томилов",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "9.11.2016",
+    "theme": "Background",
+    "teacher": "Алексей Макаров",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "9.11.2016",
+    "theme": "RecyclerView",
+    "teacher": "Владимир Тагаков",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "10.11.2016",
+    "theme": "Нативные приложения на веб-технологиях",
+    "teacher": "Сергей Бережной",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "15.11.2016",
+    "theme": "Анимации",
+    "teacher": "Сергей Томилов",
+    "company": "Яндекс",
+    "school": "design"
+  },
+  {
+    "date": "15.11.2016",
+    "theme": "Дополнительная лекция. Design Everything",
+    "teacher": "Rijshouwer Krijn",
+    "company": "Framer",
+    "school": "design"
+  },
+
+  {
+    "date": "16.11.2016",
+    "theme": "Service & Broadcasts",
+    "teacher": "Алексей Макаров",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "16.11.2016",
+    "theme": "Drawing",
+    "teacher": "Алексей Щербинин",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "17.11.2016",
+    "theme": "Клиентская оптимизация: базовые знания и лучшие практики",
+    "teacher": "Андрей Морозов",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "22.11.2016",
+    "theme": "Развитие продукта",
+    "teacher": "Андрей Гевак",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "23.11.2016",
+    "theme": "Content provider",
+    "teacher": "Максим Хромцов",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "23.11.2016",
+    "theme": "SQL&SQLite",
+    "teacher": "Максим Хромцов",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "24.11.2016",
+    "theme": "Клиентская оптимизация: мобильные устройства и инструменты",
+    "teacher": "Иван Карев",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "29.11.2016",
+    "theme": "Исследование интерфейсов",
+    "teacher": "Кондратьев Александр",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "30.11.2016",
+    "theme": "Fragments (Часть 1)",
+    "teacher": "Денис Загаевский",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "30.11.2016",
+    "theme": "Fragments (Часть 2)",
+    "teacher": "Денис Загаевский",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+
+  {
+    "date": "1.12.2016",
+    "theme": "Инфраструктура веб-проектов",
+    "teacher": "Прокопюк Андрей",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "1.12.2016",
+    "theme": "Инструменты разработки мобильного фронтенда",
+    "teacher": "Прокопюк Андрей",
+    "company": "Яндекс",
+    "school": "interface"
+  },
+  {
+    "date": "6.12.2016",
+    "theme": "Работа в команде",
+    "teacher": "Юрий Подорожный",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "7.12.2016",
+    "theme": "MVP&Co",
+    "teacher": "Дмитрий Попов",
+    "company": "Яндекс",
+    "school": "mobile"
+  },
+  {
+    "date": "13.12.2016",
+    "theme": "Дополнительная лекция. Айдентика",
+    "teacher": "Дмитрий Моруз",
+    "company": "Яндекс",
+    "school": "design"
+  },
+
+  {
+    "date": "14.12.2016",
+    "theme": "Debugging & Polishing",
+    "teacher": "Илья Сергеев",
+    "company": "Яндекс",
+    "school": "mobile"
+  }
+]
