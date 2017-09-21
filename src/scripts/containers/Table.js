@@ -1,24 +1,17 @@
 import React from "react";
+import { connect } from "react-redux";
 
 import Lesson from "../components/Lesson.js";
-
-import schedule from "../../api/schedule-interface.json";
 
 class Table extends React.Component {
   render() {
     return (
       <div className="table">
-        <div className="table-header">
-          <div className="table-header-item table-header-item__date">Дата</div>
-          <div className="table-header-item table-header-item__theme">Тема</div>
-          <div className="table-header-item table-header-item__teacher">
-            Преподаватель
-          </div>
-        </div>
         <div className="table-content">
-          {schedule.map((lesson, index) => {
+          {this.props.table.map((lesson, index) => {
             return (
               <Lesson
+                number={index}
                 key={index}
                 date={lesson.date}
                 theme={lesson.theme}
@@ -34,4 +27,10 @@ class Table extends React.Component {
   }
 }
 
-export default Table;
+function mapStateToProps(state) {
+  return {
+    table: state.table
+  };
+}
+
+export default connect(mapStateToProps)(Table);

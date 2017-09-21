@@ -189,6 +189,13 @@
   },
   {
     "date": "23.11.2016",
+    "theme": "Маркетинг",
+    "teacher": "Иван Карев",
+    "company": "Яндекс",
+    "school": "interface and design"
+  },
+  {
+    "date": "23.11.2016",
     "theme": "SQL&SQLite",
     "teacher": "Максим Хромцов",
     "company": "Яндекс",
@@ -237,6 +244,13 @@
     "teacher": "Прокопюк Андрей",
     "company": "Яндекс",
     "school": "interface"
+  },
+  {
+    "date": "3.12.2016",
+    "theme": "Продвижение продуктов",
+    "teacher": "Денис Загаевский",
+    "company": "Яндекс",
+    "school": "mobile and design"
   },
   {
     "date": "6.12.2016",
